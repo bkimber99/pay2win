@@ -1,118 +1,132 @@
 ,Team,Win Percentage
-100,Akron,33.30%
-1,Alabama,93.30%
-9,App State,84.60%
-84,Arizona,41.70%
-71,Arizona St,53.90%
-122,Arkansas,16.70%
-46,Arkansas St,61.50%
-49,Auburn,61.50%
-101,Ball State,33.30%
-67,Baylor,53.90%
-19,Boise State,76.90%
-50,Boston Col,58.30%
-113,Bowling Grn,25.00%
-60,BYU,53.90%
-58,California,53.90%
-3,Central FL,92.30%
-126,Central Mich,8.30%
-10,Cincinnati,84.60%
-0,Clemson,100.00%
-83,Colorado,41.70%
-115,Colorado St,25.00%
-127,Connecticut,8.30%
-48,Duke,61.50%
-107,E Carolina,25.00%
-72,E Michigan,53.90%
-89,Fla Atlantic,41.70%
-15,Florida,76.90%
-25,Florida Intl,69.20%
-91,Florida St,41.70%
-20,GA Southern,76.90%
-56,GA Tech,53.90%
-13,Georgia,78.60%
-123,Georgia State,16.70%
-52,Hawaii,57.10%
-47,Houston,61.50%
-103,Illinois,33.30%
-96,Indiana,41.70%
-29,Iowa,69.20%
-40,Iowa State,61.50%
-105,Kansas,25.00%
-87,Kansas St,41.70%
-121,Kent State,16.70%
-17,Kentucky,76.90%
-75,LA Lafayette,50.00%
-77,LA Monroe,50.00%
-41,LA Tech,61.50%
-120,Louisville,16.70%
-18,LSU,76.90%
-31,Marshall,69.20%
-88,Maryland,41.70%
-51,Memphis,57.10%
-62,Miami (FL),53.90%
-78,Miami (OH),50.00%
-61,Michigan St,53.90%
-21,Michigan-Ann Arbor,76.90%
-54,Middle Tenn,57.10%
-64,Minnesota,53.90%
-94,Mississippi,41.70%
-44,Mississippi State University,61.50%
-42,Missouri,61.50%
-99,Nebraska,33.30%
-43,Nevada,61.50%
-108,New Mexico,25.00%
-109,New Mexico State,25.00%
-118,North Carolina,18.20%
-27,North Carolina State,69.20%
-28,North Texas,69.20%
-53,Nothern Illinois,57.10%
-36,Northwestern,64.30%
-4,Notre Dame,92.30%
-26,Ohio,69.20%
-2,Ohio State,92.90%
-6,Oklahoma,85.70%
-68,Oklahoma St,53.90%
-104,Old Dominion,33.30%
-32,Oregon,69.20%
-119,Oregon St,16.70%
-30,Penn State,69.20%
-74,Pittsburgh,50.00%
-82,Purdue,46.20%
-124,Rice,15.40%
-125,Rutgers,8.30%
-65,San Diego St,53.90%
-129,San Jose St,8.30%
-116,South Alabama,25.00%
-59,South Carolina,53.90%
-69,South Florida,53.90%
-92,Southern Methodist,41.70%
-55,Southern Mississippi,54.60%
-33,Stanford,69.20%
-14,Syracuse,76.90%
-73,TCU,53.90%
-39,Temple,61.50%
-86,Tennessee,41.70%
-24,Texas,71.40%
-34,Texas A&M,69.20%
-114,Texas State,25.00%
-93,Texas Tech,41.70%
-66,Toledo,53.90%
-16,Troy,76.90%
-57,Tulane,53.90%
-112,Tulsa,25.00%
-111,UCLA,25.00%
-85,USC,41.70%
-37,Utah,64.30%
-7,Utah State,84.60%
-81,VA Tech,46.20%
-80,Vanderbilt,46.20%
-38,Virginia,61.50%
-110,W Kentucky,25.00%
-63,W Michigan,53.90%
-35,W Virginia,66.70%
-70,Wake Forest,53.90%
-11,Wash State,84.60%
-22,Washington,71.40%
-45,Wisconsin,61.50%
-79,Wyoming,50.00%
+0,Clemson,100.0%
+1,Alabama,93.3%
+2,Ohio State,92.9%
+3,Central FL,92.3%
+4,Notre Dame,92.3%
+5,Fresno St,85.7%
+6,Oklahoma,85.7%
+7,Utah State,84.6%
+8,Army,84.6%
+9,App State,84.6%
+10,Cincinnati,84.6%
+11,Wash State,84.6%
+12,UAB,78.6%
+13,Georgia,78.6%
+14,Kentucky,76.9%
+15,Troy,76.9%
+16,LSU,76.9%
+17,Boise State,76.9%
+18,Syracuse,76.9%
+19,Florida,76.9%
+20,GA Southern,76.9%
+21,Michigan,76.9%
+22,Buffalo,71.4%
+23,Washington,71.4%
+24,Texas,71.4%
+25,Ohio,69.2%
+26,North Texas,69.2%
+27,Iowa,69.2%
+28,Florida Intl,69.2%
+29,Oregon,69.2%
+30,Stanford,69.2%
+31,NC State,69.2%
+32,Marshall,69.2%
+33,Penn State,69.2%
+34,Texas A&M,69.2%
+35,W Virginia,66.7%
+36,Northwestern,64.3%
+37,Utah,64.3%
+38,Duke,61.5%
+39,Missouri,61.5%
+40,LA Tech,61.5%
+41,Virginia,61.5%
+42,Nevada,61.5%
+43,Temple,61.5%
+44,Iowa State,61.5%
+45,Miss State,61.5%
+46,Wisconsin,61.5%
+47,Arkansas St,61.5%
+48,Houston,61.5%
+49,Auburn,61.5%
+50,Boston Col,58.3%
+51,Memphis,57.1%
+52,N Illinois,57.1%
+53,Hawaii,57.1%
+54,Middle Tenn,57.1%
+55,S Mississippi,54.6%
+56,Minnesota,53.9%
+57,Miami (FL),53.9%
+58,Michigan St,53.9%
+59,GA Tech,53.9%
+60,Baylor,53.9%
+61,W Michigan,53.9%
+62,Toledo,53.9%
+63,Tulane,53.9%
+64,S Florida,53.9%
+65,Wake Forest,53.9%
+66,Arizona St,53.9%
+67,San Diego St,53.9%
+68,Oklahoma St,53.9%
+69,BYU,53.9%
+70,California,53.9%
+71,S Carolina,53.9%
+72,E Michigan,53.9%
+73,TX Christian,53.9%
+74,Pittsburgh,50.0%
+75,LA Lafayette,50.0%
+76,LA Monroe,50.0%
+77,Wyoming,50.0%
+78,Miami (OH),50.0%
+79,Liberty,50.0%
+80,VA Tech,46.2%
+81,Purdue,46.2%
+82,Vanderbilt,46.2%
+83,Air Force,41.7%
+84,Tennessee,41.7%
+85,Maryland,41.7%
+86,S Methodist,41.7%
+87,Florida St,41.7%
+88,USC,41.7%
+89,Kansas St,41.7%
+90,Mississippi,41.7%
+91,Fla Atlantic,41.7%
+92,Arizona,41.7%
+93,Texas Tech,41.7%
+94,Colorado,41.7%
+95,Charlotte,41.7%
+96,Indiana,41.7%
+97,Coastal Car,41.7%
+98,Akron,33.3%
+99,Ball State,33.3%
+100,Nebraska,33.3%
+101,Illinois,33.3%
+102,U Mass,33.3%
+103,UNLV,33.3%
+104,Old Dominion,33.3%
+105,W Kentucky,25.0%
+106,N Mex State,25.0%
+107,UCLA,25.0%
+108,New Mexico,25.0%
+109,Kansas,25.0%
+110,Tulsa,25.0%
+111,TX-San Ant,25.0%
+112,Bowling Grn,25.0%
+113,E Carolina,25.0%
+114,Texas State,25.0%
+115,Colorado St,25.0%
+116,S Alabama,25.0%
+117,Navy,23.1%
+118,N Carolina,18.2%
+119,Oregon St,16.7%
+120,Louisville,16.7%
+121,Arkansas,16.7%
+122,Kent State,16.7%
+123,Georgia State,16.7%
+124,Rice,15.4%
+125,Rutgers,8.3%
+126,Central Mich,8.3%
+127,San Jose St,8.3%
+128,Connecticut,8.3%
+129,TX El Paso,8.3%
+130,James Mad,0.0%

@@ -1,118 +1,128 @@
-year,institution_name,classification_code,classification_name,ef_male_count,partic_men,rev_men,exp_men,total_exp_menwomen,sports,Win Percentage
-2017,Akron Main Campus,1,NCAA Division I-FBS,7144,105,7396137,7396137,7396137,Football,50.00%
-2017,Alabama,1,NCAA Division I-FBS,13351,138,111102134,62944472,62944472,Football,92.90%
-2017,Appalachian State University,1,NCAA Division I-FBS,7172,120,9247671,9247671,9247671,Football,69.20%
-2017,Arizona,1,NCAA Division I-FBS,13852,128,44011760,32153926,32153926,Football,53.90%
-2017,Arizona State University-Tempe,1,NCAA Division I-FBS,21779,125,47463786,50151443,50151443,Football,53.90%
-2017,Arkansas,1,NCAA Division I-FBS,9529,123,67851084,44633637,44633637,Football,33.30%
-2017,Arkansas State University-Main Campus,1,NCAA Division I-FBS,2944,121,6518834,6518834,6518834,Football,58.30%
-2017,Auburn University,1,NCAA Division I-FBS,10584,110,93562715,43605320,43605320,Football,71.40%
-2017,Ball State University,1,NCAA Division I-FBS,6190,113,7205016,7205016,7205016,Football,16.70%
-2017,Baylor University,1,NCAA Division I-FBS,5801,121,41528041,28188097,28188097,Football,8.30%
-2017,Boise State University,1,NCAA Division I-FBS,5682,109,20470985,11803457,11803457,Football,78.60%
-2017,Boston College,1,NCAA Division I-FBS,4495,106,32378875,23477213,23477213,Football,53.90%
-2017,Bowling Green State University-Main Campus,1,NCAA Division I-FBS,5630,102,6895955,6895955,6895955,Football,16.70%
-2017,Brigham Young University-Provo,1,NCAA Division I-FBS,14388,129,28209221,19435229,19435229,Football,30.80%
-2017,California-Berkeley,1,NCAA Division I-FBS,14016,119,32650505,25140854,25140854,Football,41.70%
-2017,Central Florida,1,NCAA Division I-FBS,18065,132,26822661,21610325,21610325,Football,100.00%
-2017,Central Michigan University,1,NCAA Division I-FBS,6696,114,7261558,7261558,7261558,Football,61.50%
-2017,Cincinnati-Main Campus,1,NCAA Division I-FBS,11897,114,13856255,13856255,13856255,Football,33.30%
-2017,Clemson University,1,NCAA Division I-FBS,9521,122,52029977,46302285,46302285,Football,85.70%
-2017,Colorado Boulder,1,NCAA Division I-FBS,14952,110,43468471,22082244,22082244,Football,41.70%
-2017,Colorado State University-Fort Collins,1,NCAA Division I-FBS,10253,115,21696561,21696561,21696561,Football,53.90%
-2017,Connecticut,1,NCAA Division I-FBS,9096,98,18955517,15135138,15135138,Football,25.00%
-2017,Duke University,1,NCAA Division I-FBS,3261,115,37844852,26200992,26200992,Football,53.90%
-2017,East Carolina University,1,NCAA Division I-FBS,8643,132,11203863,10578112,10578112,Football,25.00%
-2017,Eastern Michigan University,1,NCAA Division I-FBS,4984,113,8551496,8551496,8551496,Football,41.70%
-2017,Florida,1,NCAA Division I-FBS,13411,129,87985713,47342367,47342367,Football,78.60%
-2017,Florida Atlantic University,1,NCAA Division I-FBS,7020,128,10592032,10592032,10592032,Football,36.40%
-2017,Florida International University,1,NCAA Division I-FBS,11403,103,9333891,9236441,9236441,Football,61.50%
-2017,Florida State University,1,NCAA Division I-FBS,12663,126,87510028,57732569,57732569,Football,53.90%
-2017,GA Southern,1,NCAA Division I-FBS,7763,127,6881771,6881771,6881771,Football,16.70%
-2017,GA Tech,1,NCAA Division I-FBS,8510,119,52125034,25096298,25096298,Football,45.50%
-2017,Georgia,1,NCAA Division I-FBS,11605,131,129023591,44909546,44909546,Football,86.70%
-2017,Georgia State University,1,NCAA Division I-FBS,7989,123,7834970,7834970,7834970,Football,58.30%
-2017,Hawaii at Manoa,1,NCAA Division I-FBS,4647,117,11177559,11177559,11177559,Football,25.00%
-2017,Houston,1,NCAA Division I-FBS,13372,136,14216992,14216992,14216992,Football,58.30%
-2017,Illinois at Urbana-Champaign,1,NCAA Division I-FBS,17464,108,51295520,22217186,22217186,Football,16.70%
-2017,Indiana University-Bloomington,1,NCAA Division I-FBS,16179,125,51856180,24374745,24374745,Football,41.70%
-2017,Iowa,1,NCAA Division I-FBS,9899,123,75963196,33092807,33092807,Football,61.50%
-2017,Iowa State University,1,NCAA Division I-FBS,16398,133,44264830,23088361,23088361,Football,61.50%
-2017,Kansas,1,NCAA Division I-FBS,8325,114,34159741,19470504,19470504,Football,8.30%
-2017,Kansas State University,1,NCAA Division I-FBS,8854,124,41333499,20571556,20571556,Football,61.50%
-2017,Kent State University at Kent,1,NCAA Division I-FBS,7303,100,6889811,6889811,6889811,Football,16.70%
-2017,Kentucky,1,NCAA Division I-FBS,9218,123,40035938,27206659,27206659,Football,53.90%
-2017,LA Lafayette,1,NCAA Division I-FBS,5724,123,9793993,9793993,9793993,Football,41.70%
-2017,LA Monroe,1,NCAA Division I-FBS,1876,125,5198019,5198019,5198019,Football,33.30%
-2017,LA Tech University,1,NCAA Division I-FBS,4191,100,8345817,8177657,8177657,Football,53.90%
-2017,Louisville,1,NCAA Division I-FBS,5635,102,43649769,26858473,26858473,Football,61.50%
-2017,LSU,1,NCAA Division I-FBS,10492,120,86579944,31561996,31561996,Football,69.20%
-2017,Marshall University,1,NCAA Division I-FBS,3357,116,9609438,9609438,9609438,Football,61.50%
-2017,Maryland-College Park,1,NCAA Division I-FBS,14594,121,34572475,19881239,19881239,Football,33.30%
-2017,Memphis,1,NCAA Division I-FBS,5243,125,17569774,17569774,17569774,Football,76.90%
-2017,Miami,1,NCAA Division I-FBS,4874,109,57144810,37268190,37268190,Football,76.90%
-2017,Miami University-Oxford,1,NCAA Division I-FBS,8118,119,8956175,8956176,8956176,Football,41.70%
-2017,Michigan State University,1,NCAA Division I-FBS,17314,117,77930837,33528479,33528479,Football,76.90%
-2017,Michigan-Ann Arbor,1,NCAA Division I-FBS,14205,135,124928493,43453382,43453382,Football,61.50%
-2017,Middle Tennessee State University,1,NCAA Division I-FBS,7319,131,10052943,10052943,10052943,Football,53.90%
-2017,Minnesota-Twin Cities,1,NCAA Division I-FBS,13884,113,61561973,27754757,27754757,Football,41.70%
-2017,Mississippi,1,NCAA Division I-FBS,7653,127,51212053,30175051,30175051,Football,50.00%
-2017,Mississippi State University,1,NCAA Division I-FBS,8131,123,29753690,23226169,23226169,Football,69.20%
-2017,Missouri-Columbia,1,NCAA Division I-FBS,10597,119,31426691,23659474,23659474,Football,53.90%
-2017,Nebraska-Lincoln,1,NCAA Division I-FBS,10175,128,92506833,46116924,46116924,Football,33.30%
-2017,Nevada-Reno,1,NCAA Division I-FBS,7308,131,10037079,10037079,10037079,Football,25.00%
-2017,New Mexico Main Campus,1,NCAA Division I-FBS,6629,116,9719807,9682160,9682160,Football,25.00%
-2017,New Mexico State University Main Campus,1,NCAA Division I-FBS,4394,112,7563062,7563062,7563062,Football,53.90%
-2017,North Carolina at Charlotte,1,NCAA Division I-FBS,11060,123,9071759,9071759,9071759,Football,25.00%
-2017,North Carolina State University at Raleigh,1,NCAA Division I-FBS,11506,115,45214291,21321620,21321620,Football,69.20%
-2017,North Texas,1,NCAA Division I-FBS,12055,121,13663161,13663161,13663161,Football,64.30%
-2017,Northern Illinois University,1,NCAA Division I-FBS,5835,104,8610948,8610948,8610948,Football,61.50%
-2017,Northwestern University,1,NCAA Division I-FBS,4047,115,49703674,30031305,30031305,Football,76.90%
-2017,Notre Dame,1,NCAA Division I-FBS,4467,114,107434072,42822063,42822063,Football,76.90%
-2017,Ohio,1,NCAA Division I-FBS,8230,120,9334446,9292143,9292143,Football,69.20%
-2017,Ohio State,1,NCAA Division I-FBS,21626,128,110661057,46444134,46444134,Football,85.70%
-2017,Oklahoma,1,NCAA Division I-FBS,9455,116,102321307,39088102,39088102,Football,85.70%
-2017,Oklahoma State,1,NCAA Division I-FBS,9227,131,45717019,22467863,22467863,Football,76.90%
-2017,Old Dominion University,1,NCAA Division I-FBS,6805,117,10694948,10694948,10694948,Football,41.70%
-2017,Oregon,1,NCAA Division I-FBS,8221,102,70542278,27716622,27716622,Football,53.90%
-2017,Oregon State University,1,NCAA Division I-FBS,9948,109,35238292,17323268,17323268,Football,8.30%
-2017,Pennsylvania State University-Main Campus,1,NCAA Division I-FBS,21053,124,100098956,45569892,45569892,Football,84.60%
-2017,Pittsburgh-Pittsburgh Campus,1,NCAA Division I-FBS,8877,111,36453643,27141760,27141760,Football,41.70%
-2017,Purdue University-Main Campus,1,NCAA Division I-FBS,17529,120,25822409,27230929,27230929,Football,53.90%
-2017,Rice University,1,NCAA Division I-FBS,2063,104,13329200,13329200,13329200,Football,8.30%
-2017,Rutgers University-New Brunswick,1,NCAA Division I-FBS,16844,120,25939804,25939804,25939804,Football,33.30%
-2017,San Diego State University,1,NCAA Division I-FBS,12235,111,14900547,15531066,15531066,Football,76.90%
-2017,San Jose State University,1,NCAA Division I-FBS,11891,108,10921731,10921731,10921731,Football,15.40%
-2017,South Alabama,1,NCAA Division I-FBS,3989,116,10637547,10920153,10920153,Football,33.30%
-2017,South Carolina-Columbia,1,NCAA Division I-FBS,11221,116,64415927,33317645,33317645,Football,69.20%
-2017,South Florida-Main Campus,1,NCAA Division I-FBS,10999,111,13336920,13334071,13334071,Football,83.30%
-2017,Southern Methodist University,1,NCAA Division I-FBS,3146,112,20465957,20465957,20465957,Football,53.90%
-2017,Southern Mississippi,1,NCAA Division I-FBS,3766,110,6880893,6880893,6880893,Football,61.50%
-2017,Stanford University,1,NCAA Division I-FBS,3510,103,46847028,27000776,27000776,Football,64.30%
-2017,Syracuse University,1,NCAA Division I-FBS,6625,120,41533110,24994763,24994763,Football,33.30%
-2017,TCU,1,NCAA Division I-FBS,3530,132,56584276,39154002,39154002,Football,78.60%
-2017,Temple University,1,NCAA Division I-FBS,12400,125,21066698,21066698,21066698,Football,53.90%
-2017,Tennessee-Knoxville,1,NCAA Division I-FBS,10448,126,93890299,45343685,45343685,Football,33.30%
-2017,Texas,1,NCAA Division I-FBS,17419,115,143064180,41250787,41250787,Football,53.90%
-2017,Texas A&M,1,NCAA Division I-FBS,24141,118,82564175,48119071,48119071,Football,53.90%
-2017,Texas State University,1,NCAA Division I-FBS,11701,120,6725212,7123686,7123686,Football,16.70%
-2017,Texas Tech University,1,NCAA Division I-FBS,14524,129,45054306,20037020,20037020,Football,46.20%
-2017,Toledo,1,NCAA Division I-FBS,6595,114,10691139,10691139,10691139,Football,78.60%
-2017,Troy University,1,NCAA Division I-FBS,3790,139,9513418,8741459,8741459,Football,84.60%
-2017,Tulane Louisiana,1,NCAA Division I-FBS,2765,109,14191889,14191889,14191889,Football,41.70%
-2017,Tulsa,1,NCAA Division I-FBS,1784,120,13882659,13882659,13882659,Football,16.70%
-2017,UCLA,1,NCAA Division I-FBS,12930,122,39891547,46765107,46765107,Football,46.20%
-2017,USC,1,NCAA Division I-FBS,8903,110,60171935,32949542,32949542,Football,78.60%
-2017,Utah,1,NCAA Division I-FBS,9488,129,55835312,25609244,25609244,Football,53.90%
-2017,Utah State University,1,NCAA Division I-FBS,8281,110,10370950,10370950,10370950,Football,46.20%
-2017,Vanderbilt University,1,NCAA Division I-FBS,3315,102,30331584,23476754,23476754,Football,69.20%
-2017,Virginia Polytechnic Institute and State University,1,NCAA Division I-FBS,15074,123,55348135,27864229,27864229,Football,41.70%
-2017,Virginia-Main Campus,1,NCAA Division I-FBS,7211,103,32549903,22552489,22552489,Football,46.20%
-2017,Wake Forest University,1,NCAA Division I-FBS,2346,105,25793812,19360660,19360660,Football,46.20%
-2017,Washington State University,1,NCAA Division I-FBS,10620,124,41709437,19963281,19963281,Football,50.00%
-2017,Washington-Seattle Campus,1,NCAA Division I-FBS,13404,113,81131079,38744975,38744975,Football,53.90%
-2017,West Virginia University,1,NCAA Division I-FBS,11063,126,20543010,20961319,20961319,Football,61.50%
-2017,Western Kentucky University,1,NCAA Division I-FBS,5456,123,7770653,7770653,7770653,Football,69.20%
-2017,Western Michigan University,1,NCAA Division I-FBS,7654,105,9197073,9197073,9197073,Football,76.90%
-2017,Wisconsin-Madison,1,NCAA Division I-FBS,13812,115,82423665,30153256,30153256,Football,92.90%
-2017,Wyoming,1,NCAA Division I-FBS,4235,111,13481960,10168112,10168112,Football,61.50%
+,institution_name,classification_code,classification_name,ef_male_count,partic_men,rev_men,exp_men,total_exp_menwomen,sports
+34772,University of Alabama at Birmingham,1,NCAA Division I-FBS,3905,135.0,11234371.0,10587110.0,10587110.0,Football
+34803,The University of Alabama,1,NCAA Division I-FBS,13351,138.0,111102134.0,62944472.0,62944472.0,Football
+34826,Auburn University,1,NCAA Division I-FBS,10584,110.0,93562715.0,43605320.0,43605320.0,Football
+35008,University of South Alabama,1,NCAA Division I-FBS,3989,116.0,10637547.0,10920153.0,10920153.0,Football
+35038,Troy University,1,NCAA Division I-FBS,3790,139.0,9513418.0,8741459.0,8741459.0,Football
+35073,Arizona State University-Tempe,1,NCAA Division I-FBS,21779,125.0,47463786.0,50151443.0,50151443.0,Football
+35096,University of Arizona,1,NCAA Division I-FBS,13852,128.0,44011760.0,32153926.0,32153926.0,Football
+35257,University of Arkansas,1,NCAA Division I-FBS,9529,123.0,67851084.0,44633637.0,44633637.0,Football
+35277,Arkansas State University-Main Campus,1,NCAA Division I-FBS,2944,121.0,6518834.0,6518834.0,6518834.0,Football
+35607,California State University-Fresno,1,NCAA Division I-FBS,8030,114.0,17870018.0,17870018.0,17870018.0,Football
+35684,University of California-Berkeley,1,NCAA Division I-FBS,14016,119.0,32650505.0,25140854.0,25140854.0,Football
+35724,University of California-Los Angeles,1,NCAA Division I-FBS,12930,122.0,39891547.0,46765107.0,46765107.0,Football
+36609,San Diego State University,1,NCAA Division I-FBS,12235,111.0,14900547.0,15531066.0,15531066.0,Football
+36679,San Jose State University,1,NCAA Division I-FBS,11891,108.0,10921731.0,10921731.0,10921731.0,Football
+36861,University of Southern California,1,NCAA Division I-FBS,8903,110.0,60171935.0,32949542.0,32949542.0,Football
+36973,University of Colorado Boulder,1,NCAA Division I-FBS,14952,110.0,43468471.0,22082244.0,22082244.0,Football
+37017,Colorado State University-Fort Collins,1,NCAA Division I-FBS,10253,115.0,21696561.0,21696561.0,21696561.0,Football
+37178,University of Connecticut,1,NCAA Division I-FBS,9096,98.0,18955517.0,15135138.0,15135138.0,Football
+37552,University of Central Florida,1,NCAA Division I-FBS,18065,132.0,26822661.0,21610325.0,21610325.0,Football
+37608,Florida Atlantic University,1,NCAA Division I-FBS,7020,128.0,10592032.0,10592032.0,10592032.0,Football
+37652,Florida International University,1,NCAA Division I-FBS,11403,103.0,9333891.0,9236441.0,9236441.0,Football
+37680,Florida State University,1,NCAA Division I-FBS,12663,126.0,87510028.0,57732569.0,57732569.0,Football
+37691,University of Florida,1,NCAA Division I-FBS,13411,129.0,87985713.0,47342367.0,47342367.0,Football
+37754,University of Miami,1,NCAA Division I-FBS,4874,109.0,57144810.0,37268190.0,37268190.0,Football
+37859,University of South Florida-Main Campus,1,NCAA Division I-FBS,10999,111.0,13336920.0,13334071.0,13334071.0,Football
+38109,Georgia Institute of Technology-Main Campus,1,NCAA Division I-FBS,8510,119.0,52125034.0,25096298.0,25096298.0,Football
+38133,Georgia Southern University,1,NCAA Division I-FBS,7763,127.0,6881771.0,6881771.0,6881771.0,Football
+38144,Georgia State University,1,NCAA Division I-FBS,7989,123.0,7834970.0,7834970.0,7834970.0,Football
+38154,University of Georgia,1,NCAA Division I-FBS,11605,131.0,129023591.0,44909546.0,44909546.0,Football
+38329,University of Hawaii at Manoa,1,NCAA Division I-FBS,4647,117.0,11177559.0,11177559.0,11177559.0,Football
+38350,Boise State University,1,NCAA Division I-FBS,5682,109.0,20470985.0,11803457.0,11803457.0,Football
+38369,University of Idaho,1,NCAA Division I-FBS,3737,111.0,6535395.0,6535395.0,6535395.0,Football
+38614,University of Illinois at Urbana-Champaign,1,NCAA Division I-FBS,17464,108.0,51295520.0,22217186.0,22217186.0,Football
+38908,Northern Illinois University,1,NCAA Division I-FBS,5835,104.0,8610948.0,8610948.0,8610948.0,Football
+38920,Northwestern University,1,NCAA Division I-FBS,4047,115.0,49703674.0,30031305.0,30031305.0,Football
+39160,Ball State University,1,NCAA Division I-FBS,6190,113.0,7205016.0,7205016.0,7205016.0,Football
+39363,Indiana University-Bloomington,1,NCAA Division I-FBS,16179,125.0,51856180.0,24374745.0,24374745.0,Football
+39431,University of Notre Dame,1,NCAA Division I-FBS,4467,114.0,107434072.0,42822063.0,42822063.0,Football
+39711,Iowa State University,1,NCAA Division I-FBS,16398,133.0,44264830.0,23088361.0,23088361.0,Football
+39740,University of Iowa,1,NCAA Division I-FBS,9899,123.0,75963196.0,33092807.0,33092807.0,Football
+40143,University of Kansas,1,NCAA Division I-FBS,8325,114.0,34159741.0,19470504.0,19470504.0,Football
+40163,Kansas State University,1,NCAA Division I-FBS,8854,124.0,41333499.0,20571556.0,20571556.0,Football
+40442,University of Kentucky,1,NCAA Division I-FBS,9218,123.0,40035938.0,27206659.0,27206659.0,Football
+40476,University of Louisville,1,NCAA Division I-FBS,5635,102.0,43649769.0,26858473.0,26858473.0,Football
+40588,Western Kentucky University,1,NCAA Division I-FBS,5456,123.0,7770653.0,7770653.0,7770653.0,Football
+40630,Louisiana State University and Agricultural & Mechanical College,1,NCAA Division I-FBS,10492,120.0,86579944.0,31561996.0,31561996.0,Football
+40661,Louisiana Tech University,1,NCAA Division I-FBS,4191,100.0,8345817.0,8177657.0,8177657.0,Football
+40707,University of Louisiana at Monroe,1,NCAA Division I-FBS,1876,125.0,5198019.0,5198019.0,5198019.0,Football
+40749,University of Louisiana at Lafayette,1,NCAA Division I-FBS,5724,123.0,9793993.0,9793993.0,9793993.0,Football
+40757,Tulane University of Louisiana,1,NCAA Division I-FBS,2765,109.0,14191889.0,14191889.0,14191889.0,Football
+41081,University of Maryland-College Park,1,NCAA Division I-FBS,14594,121.0,34572475.0,19881239.0,19881239.0,Football
+41308,Boston College,1,NCAA Division I-FBS,4495,106.0,32378875.0,23477213.0,23477213.0,Football
+41547,University of Massachusetts-Amherst,1,NCAA Division I-FBS,10958,113.0,10010932.0,10010932.0,10010932.0,Football
+41961,Central Michigan University,1,NCAA Division I-FBS,6696,114.0,7261558.0,7261558.0,7261558.0,Football
+42023,Eastern Michigan University,1,NCAA Division I-FBS,4984,113.0,8551496.0,8551496.0,8551496.0,Football
+42186,University of Michigan-Ann Arbor,1,NCAA Division I-FBS,14205,135.0,124928493.0,43453382.0,43453382.0,Football
+42203,Michigan State University,1,NCAA Division I-FBS,17314,117.0,77930837.0,33528479.0,33528479.0,Football
+42367,Western Michigan University,1,NCAA Division I-FBS,7654,105.0,9197073.0,9197073.0,9197073.0,Football
+42562,University of Minnesota-Twin Cities,1,NCAA Division I-FBS,13884,113.0,61561973.0,27754757.0,27754757.0,Football
+42899,University of Mississippi,1,NCAA Division I-FBS,7653,127.0,51212053.0,30175051.0,30175051.0,Football
+42938,Mississippi State University,1,NCAA Division I-FBS,8131,123.0,29753690.0,23226169.0,23226169.0,Football
+42975,University of Southern Mississippi,1,NCAA Division I-FBS,3766,110.0,6880893.0,6880893.0,6880893.0,Football
+43196,University of Missouri-Columbia,1,NCAA Division I-FBS,10597,119.0,31426691.0,23659474.0,23659474.0,Football
+43593,University of Nebraska-Lincoln,1,NCAA Division I-FBS,10175,128.0,92506833.0,46116924.0,46116924.0,Football
+43658,University of Nevada-Las Vegas,1,NCAA Division I-FBS,8031,103.0,9982684.0,9982684.0,9982684.0,Football
+43671,University of Nevada-Reno,1,NCAA Division I-FBS,7308,131.0,10037079.0,10037079.0,10037079.0,Football
+44097,Rutgers University-New Brunswick,1,NCAA Division I-FBS,16844,120.0,25939804.0,25939804.0,25939804.0,Football
+44234,University of New Mexico-Main Campus,1,NCAA Division I-FBS,6629,116.0,9719807.0,9682160.0,9682160.0,Football
+44246,New Mexico State University-Main Campus,1,NCAA Division I-FBS,4394,112.0,7563062.0,7563062.0,7563062.0,Football
+45386,University at Buffalo,1,NCAA Division I-FBS,11138,111.0,7730058.0,7730058.0,7730058.0,Football
+45570,Syracuse University,1,NCAA Division I-FBS,6625,120.0,41533110.0,24994763.0,24994763.0,Football
+45697,Appalachian State University,1,NCAA Division I-FBS,7172,120.0,9247671.0,9247671.0,9247671.0,Football
+45807,Duke University,1,NCAA Division I-FBS,3261,115.0,37844852.0,26200992.0,26200992.0,Football
+45820,East Carolina University,1,NCAA Division I-FBS,8643,132.0,11203863.0,10578112.0,10578112.0,Football
+46012,University of North Carolina at Chapel Hill,1,NCAA Division I-FBS,7464,134.0,43122492.0,21068434.0,21068434.0,Football
+46026,University of North Carolina at Charlotte,1,NCAA Division I-FBS,11060,123.0,9071759.0,9071759.0,9071759.0,Football
+46043,North Carolina Central University,1,NCAA Division I-FBS,1805,128.0,4012412.0,4012412.0,4012412.0,Football
+46051,North Carolina State University at Raleigh,1,NCAA Division I-FBS,11506,115.0,45214291.0,21321620.0,21321620.0,Football
+46187,Wake Forest University,1,NCAA Division I-FBS,2346,105.0,25793812.0,19360660.0,19360660.0,Football
+46333,University of Akron Main Campus,1,NCAA Division I-FBS,7144,105.0,7396137.0,7396137.0,7396137.0,Football
+46376,Bowling Green State University-Main Campus,1,NCAA Division I-FBS,5630,102.0,6895955.0,6895955.0,6895955.0,Football
+46433,University of Cincinnati-Main Campus,1,NCAA Division I-FBS,11897,114.0,13856255.0,13856255.0,13856255.0,Football
+46572,Kent State University at Kent,1,NCAA Division I-FBS,7303,100.0,6889811.0,6889811.0,6889811.0,Football
+46645,Miami University-Oxford,1,NCAA Division I-FBS,8118,119.0,8956175.0,8956176.0,8956176.0,Football
+46759,Ohio State University-Main Campus,1,NCAA Division I-FBS,21626,128.0,110661057.0,46444134.0,46444134.0,Football
+46778,Ohio University-Main Campus,1,NCAA Division I-FBS,8230,120.0,9334446.0,9292143.0,9292143.0,Football
+46860,University of Toledo,1,NCAA Division I-FBS,6595,114.0,10691139.0,10691139.0,10691139.0,Football
+47103,Oklahoma State University-Main Campus,1,NCAA Division I-FBS,9227,131.0,45717019.0,22467863.0,22467863.0,Football
+47134,University of Oklahoma-Norman Campus,1,NCAA Division I-FBS,9455,116.0,102321307.0,39088102.0,39088102.0,Football
+47201,University of Tulsa,1,NCAA Division I-FBS,1784,120.0,13882659.0,13882659.0,13882659.0,Football
+47328,Oregon State University,1,NCAA Division I-FBS,9948,109.0,35238292.0,17323268.0,17323268.0,Football
+47340,University of Oregon,1,NCAA Division I-FBS,8221,102.0,70542278.0,27716622.0,27716622.0,Football
+48289,Pennsylvania State University-Main Campus,1,NCAA Division I-FBS,21053,124.0,100098956.0,45569892.0,45569892.0,Football
+48411,University of Pittsburgh-Pittsburgh Campus,1,NCAA Division I-FBS,8877,111.0,36453643.0,27141760.0,27141760.0,Football
+48566,Temple University,1,NCAA Division I-FBS,12400,125.0,21066698.0,21066698.0,21066698.0,Football
+48933,Clemson University,1,NCAA Division I-FBS,9521,122.0,52029977.0,46302285.0,46302285.0,Football
+49070,University of South Carolina-Columbia,1,NCAA Division I-FBS,11221,116.0,64415927.0,33317645.0,33317645.0,Football
+49452,University of Memphis,1,NCAA Division I-FBS,5243,125.0,17569774.0,17569774.0,17569774.0,Football
+49462,Middle Tennessee State University,1,NCAA Division I-FBS,7319,131.0,10052943.0,10052943.0,10052943.0,Football
+49530,The University of Tennessee-Knoxville,1,NCAA Division I-FBS,10448,126.0,93890299.0,45343685.0,45343685.0,Football
+49596,Vanderbilt University,1,NCAA Division I-FBS,3315,102.0,30331584.0,23476754.0,23476754.0,Football
+49652,Baylor University,1,NCAA Division I-FBS,5801,121.0,41528041.0,28188097.0,28188097.0,Football
+49807,University of Houston,1,NCAA Division I-FBS,13372,136.0,14216992.0,14216992.0,14216992.0,Football
+49955,University of North Texas,1,NCAA Division I-FBS,12055,121.0,13663161.0,13663161.0,13663161.0,Football
+50022,Rice University,1,NCAA Division I-FBS,2063,104.0,13329200.0,13329200.0,13329200.0,Football
+50079,Southern Methodist University,1,NCAA Division I-FBS,3146,112.0,20465957.0,20465957.0,20465957.0,Football
+50120,Texas State University,1,NCAA Division I-FBS,11701,120.0,6725212.0,7123686.0,7123686.0,Football
+50165,Texas A & M University-College Station,1,NCAA Division I-FBS,24141,118.0,82564175.0,48119071.0,48119071.0,Football
+50183,The University of Texas at Austin,1,NCAA Division I-FBS,17419,115.0,143064180.0,41250787.0,41250787.0,Football
+50201,The University of Texas at El Paso,1,NCAA Division I-FBS,6809,136.0,13421668.0,11576933.0,11576933.0,Football
+50221,Texas Christian University,1,NCAA Division I-FBS,3530,132.0,56584276.0,39154002.0,39154002.0,Football
+50262,The University of Texas at San Antonio,1,NCAA Division I-FBS,10460,104.0,10548064.0,10548064.0,10548064.0,Football
+50282,Texas Tech University,1,NCAA Division I-FBS,14524,129.0,45054306.0,20037020.0,20037020.0,Football
+50367,Brigham Young University-Provo,1,NCAA Division I-FBS,14388,129.0,28209221.0,19435229.0,19435229.0,Football
+50405,Utah State University,1,NCAA Division I-FBS,8281,110.0,10370950.0,10370950.0,10370950.0,Football
+50427,University of Utah,1,NCAA Division I-FBS,9488,129.0,55835312.0,25609244.0,25609244.0,Football
+50794,Old Dominion University,1,NCAA Division I-FBS,6805,117.0,10694948.0,10694948.0,10694948.0,Football
+50908,Virginia Polytechnic Institute and State University,1,NCAA Division I-FBS,15074,123.0,55348135.0,27864229.0,27864229.0,Football
+50930,University of Virginia-Main Campus,1,NCAA Division I-FBS,7211,103.0,32549903.0,22552489.0,22552489.0,Football
+51202,Washington State University,1,NCAA Division I-FBS,10620,124.0,41709437.0,19963281.0,19963281.0,Football
+51212,University of Washington-Seattle Campus,1,NCAA Division I-FBS,13404,113.0,81131079.0,38744975.0,38744975.0,Football
+51350,Marshall University,1,NCAA Division I-FBS,3357,116.0,9609438.0,9609438.0,9609438.0,Football
+51442,West Virginia University,1,NCAA Division I-FBS,11063,126.0,20543010.0,20961319.0,20961319.0,Football
+51753,University of Wisconsin-Madison,1,NCAA Division I-FBS,13812,115.0,82423665.0,30153256.0,30153256.0,Football
+51833,University of Wyoming,1,NCAA Division I-FBS,4235,111.0,13481960.0,10168112.0,10168112.0,Football
+52027,Stanford University,1,NCAA Division I-FBS,3510,103.0,46847028.0,27000776.0,27000776.0,Football
+52047,Purdue University-Main Campus,1,NCAA Division I-FBS,17529,120.0,25822409.0,27230929.0,27230929.0,Football
